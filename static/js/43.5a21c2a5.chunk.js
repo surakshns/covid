@@ -1,0 +1,2 @@
+(this.webpackJsonpcovid=this.webpackJsonpcovid||[]).push([[43],{258:function(s,c,e){"use strict";e.r(c);var o=e(25),r=e(2),t=e(119),i=e(20);c.default=function(){var s=Object(t.a)("https://api.covid19india.org/crowdsourced_resources_links.json",o.b).data;Object(r.useMemo)((function(){return s?s.crowdsourcd_resources_links:[]}),[s]);return Object(i.jsx)("div",{className:"Resources"})}}}]);
+//# sourceMappingURL=43.5a21c2a5.chunk.js.map

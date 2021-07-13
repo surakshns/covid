@@ -1,0 +1,2 @@
+(this.webpackJsonpcovid=this.webpackJsonpcovid||[]).push([[9],{144:function(t,c,e){"use strict";e.r(c);var o=e(2),s=e(296),i=e(20);function n(){Object(s.a)().t;return Object(i.jsx)("footer",{})}c.default=Object(o.memo)(n)}}]);
+//# sourceMappingURL=9.49cf7078.chunk.js.map
